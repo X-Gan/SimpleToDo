@@ -23,8 +23,6 @@ The following **optional** features are implemented:
 * [ ] Add support for selecting the priority of each todo item (and display in listview item)
 * [ ] Tweak the style improving the UI / UX, play with colors, images or backgrounds
 
-The following **additional** features are implemented:
-
 
 ## Video Walkthrough 
 
@@ -32,11 +30,11 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/fKz8qR2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-## GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-## Describe any challenges encountered while building the app.
+I used a windows laptop with Hyper-V installed for developing the app. It is well known that Hyper-V conflicts with the emulator created in Android Studio. I was not able to start android emulator from Android Studio. Eventually I used Android emulator from Visual Studio to test the app. It worked well for Android Studio to connect to the Visual Studio Android emulator. One shortcoming is that I was not able to find a way to enable the soft keyboard on the Visual Studio Android emulator. 
 
 ## License
 
