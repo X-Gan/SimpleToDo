@@ -2,4 +2,7 @@
     <string name="app_name">SimpleTodo</string>
     <string name="newItemHint">Add a new item ...</string>
     <string name="editInstruction">Edit Item Below:</string>
+    <string name="action_edit">Add</string>
+    <string name="action_sort">Sort</string>
+    <string name="action_save">Save</string>
 </resources>
