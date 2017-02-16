@@ -25,6 +25,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
+* [X] Implement toolbars for Add, Sort, Save functions.
 * [X] Sort asendingly or descendingly on due date.
 
 ## Video Walkthrough 
